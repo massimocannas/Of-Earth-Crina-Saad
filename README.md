@@ -5,7 +5,7 @@
 > Auf keiner Stätte zu ruhn.”*  
 > — Friedrich Hölderlin, *Griechenland* (vv. 24–25)
   
-<hr style="width:40%; margin-left:0;">
+<hr style="width:10%; margin-left:0;">
 
 
 Translations of poems by **Crina Bondre Ardelean** and **Emily Dickinson**, with parallel Italian text.
