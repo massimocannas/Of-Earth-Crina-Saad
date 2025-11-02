@@ -9,7 +9,7 @@
 
 Translations of poems by **Crina Bondre Ardelean** and **Emily Dickinson**, with parallel Italian text.
 
-This repository contains my Italian translations of poems by **Emily Dickinson** and **Crina Bondre Ardelean**, with bilingual (English–Italian) layouts in LaTeX.
+This repository contains my Italian translations of poems by **Emily Dickinson** and **Crina Bondre Ardelean**, with bilingual (English–Italian) layouts.
 
 ---
 
