@@ -15,7 +15,6 @@
 
 This repository contains my Italian translations of poems by **Emily Dickinson** and **Crina Bondre Ardelean** with bilingual layout.
 
-### Collections
 - 🌿 [Emily Dickinson](./Dickinson/) 
 - 🌿 [Crina Bondre Ardelean](./Ardelean/)
 
