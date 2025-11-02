@@ -5,7 +5,12 @@
 > Auf keiner Stätte zu ruhn.”*  
 > — Friedrich Hölderlin, *Griechenland* (vv. 24–25)
   
-<p align="center">――――――</p>
+<p align="center">
+  <svg width="60" height="2">
+    <rect width="60" height="2" fill="gray" />
+  </svg>
+</p>
+
 
 
 
