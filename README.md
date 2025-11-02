@@ -1,5 +1,5 @@
-# Poetry---translations
-Italian translations of ...
+# Poetry - translations
+Italian translations of selected poems
 
 
 ---
