@@ -1,6 +1,8 @@
 > *“...Doch uns ist gegeben,  
 > Auf keiner Stätte zu ruhn.”*  
 > — Friedrich Hölderlin, *Griechenland* (vv. 24–25)
+
+
 <p align="center">
   <svg width="180" height="1">
     <rect width="180" height="1" fill="#999" />
