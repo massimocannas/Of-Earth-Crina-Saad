@@ -18,6 +18,25 @@ This repository contains my Italian translations of poems by **Emily Dickinson**
 - 🌿 [Emily Dickinson](./Dickinson/) 
 - 🌿 [Crina Bondre Ardelean](./Ardelean/)
 
+::: columns
+:::: column
+### The Speed of Earth
+
+you think you're quick  
+earth is quicker  
+*…*
+
+::::
+
+:::: column
+### La velocità della Terra
+
+tu pensi d'essere veloce  
+ma la terra lo è di più  
+*…*
+
+::::
+:::
 
 
 ---
