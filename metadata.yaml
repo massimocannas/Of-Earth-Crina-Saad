@@ -1,0 +1,12 @@
+title: "OF EARTH"
+author: "Crina Saad"
+subtitle: "Testo originale a fronte – Traduzione italiana"
+lang: it
+geometry: margin=2.5cm
+fontsize: 12pt
+mainfont: "EB Garamond"
+header-includes:
+  - \usepackage{verse}
+  - \setlength{\parindent}{0pt}
+  - \setlength{\parskip}{6pt}
+  - \usepackage{paracol}
