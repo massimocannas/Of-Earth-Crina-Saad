@@ -37,6 +37,9 @@ ma la terra lo è di più
 
 ::::
 :::
+| **Original (English)** | **Traduzione (Italiano)** |
+|------------------------|---------------------------|
+| you think you're quick<br>earth is quicker<br><br>her feet reach to yours<br>the moment before you step<br>... | tu pensi d’essere veloce<br>ma la terra lo è di più<br><br>il suo piede precede i tuoi<br>appena prima del tuo passo<br>... |
 
 
 ---
