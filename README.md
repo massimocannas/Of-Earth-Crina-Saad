@@ -32,7 +32,8 @@ I warmly thank her for granting permission to publish this bilingual edition wit
 
 This repository hosts:
 
-- a **general introduction** to the collection  
+<!-- - a **general introduction** to the collection   -->
+
 - the **first poem** presented directly in the README in a two-column layout  
 - the **complete bilingual edition in PDF** (original + Italian translation)  
 
