@@ -10,16 +10,58 @@
 </p>
 
 
+# **OF EARTH — Crina Saad**  
+*Original English Text with Italian Translation by Massimo Cannas*
+
+---
+
+## 🕊️ About the Author
+
+Crina Saad (formerly known as Crina Bondre Ardelean) is a Romanian-Palestinian poet whose work has appeared in *Canadian Literature* and *The New Quarterly*, where one of her poems was shortlisted for the **Nick Blatchford Occasional Verse Contest** in 2011.  
+She has taught literature in Montreal and continues to be active in the literary and arts community.
+
+The collection **Of Earth** was first published in 2015 on *Eudia*. [link](https://www.eudia.org/poetry-crina-bondre-ardelean-of-earth/)
+ 
+Crina is currently transitioning back to her **family surname**, *Saad*, which is now used in this edition.
+
+I warmly thank her for granting permission to publish this bilingual edition with the Italian translation.
+
+---
+
+## 📖 About this Repository
+
+This repository hosts:
+
+- a **general introduction** to the collection  
+- the **first poem** presented directly in the README in a two-column layout  
+- the **complete bilingual edition in PDF** (original + Italian translation)  
+
+The goal is to make *Of Earth* accessible for online reading while preserving the structure and tone of the original work as faithfully as possible.
+
+---
+
+## 🔗 Direct Link to the Mini-Site
+
+The dedicated mini-site for the project is available here:
+
+👉 **[Mini-Site: Of Earth — Crina Saad](URL-DA-INSERIRE)**
+
+It offers a clean reading interface and access to the full text.
+
+---
+
+## ✍️ License and Permissions
+
+The contents of this repository are published **with explicit permission of the author, Crina Saad**.  
+Please do not reproduce or redistribute without attribution.
+
+---
+
+If you find typos or formatting issues, feel free to open an issue or contact me — I am continuously refining the text and layout.
 
 
-
-This repository contains my Italian translations of poems by **Emily Dickinson** and **Crina Bondre Ardelean** with bilingual layout.
-
-- 🌿 [Emily Dickinson](./Dickinson/) 
 - 🌿 [Crina Bondre Ardelean](./Ardelean/)
 
-::: columns
-:::: column
 ### The Speed of Earth
 
 you think you're quick  
