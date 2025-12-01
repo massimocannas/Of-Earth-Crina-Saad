@@ -37,7 +37,7 @@ This repository hosts:
 - the **first poem** presented directly in the README in a two-column layout  
 - the **complete bilingual edition in PDF** (original + Italian translation)  
 
-The goal is to make *Of Earth* accessible for online reading while preserving the structure and tone of the original work as faithfully as possible.
+<!-- - a The goal is to make *Of Earth* accessible for online reading while preserving the structure and tone of the original work as faithfully as possible.-->
 
 ---
 
@@ -45,9 +45,7 @@ The goal is to make *Of Earth* accessible for online reading while preserving th
 
 The dedicated mini-site for the project is available here:
 
-👉 **[Mini-Site: Of Earth — Crina Saad](URL-DA-INSERIRE)**
-
-It offers a clean reading interface and access to the full text.
+👉 **[Of Earth — Crina Saad](URL-DA-INSERIRE)**
 
 ---
 
