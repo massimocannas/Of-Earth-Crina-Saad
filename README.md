@@ -63,7 +63,24 @@ Please do not reproduce or redistribute without attribution.
 
 you think you're quick  
 earth is quicker  
-*…*
+
+her feet reach to yours
+the moment before you step
+
+she breathes into you
+the moment before you inhale
+
+she unveils herself to you
+the moment before you look
+
+and she makes extraordinary sense
+the moment before you puzzle
+
+how she serves you!
+how you mistrust her!
+ 
+testing her, when she has brought
+all devotion, in great simplicity
 
 ::::
 
