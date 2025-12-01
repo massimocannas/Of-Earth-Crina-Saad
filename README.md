@@ -82,7 +82,7 @@ how you mistrust her!
 testing her, when she has brought<br>
 all devotion, in great simplicity
 
-***
+❧ ❧ ❧
 
 
 ### La velocità della Terra
