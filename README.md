@@ -35,8 +35,8 @@ This repository hosts:
 
 <!-- - a **general introduction** to the collection   -->
 
-- the **first poem** presented directly in the README in a two-column layout  
-- the **complete bilingual edition in PDF** (original + Italian translation)  
+- the **first poem** presented directly in the README in a two-column layout (see below)  
+- the **complete bilingual edition in PDF** (original + Italian translation) **[Of Earth — Crina Saad](URL-DA-INSERIRE)** 
 
 <!-- - a The goal is to make *Of Earth* accessible for online reading while preserving the structure and tone of the original work as faithfully as possible.-->
 
@@ -56,9 +56,6 @@ The contents of this repository are published **with explicit permission of the 
 Please do not reproduce or redistribute without attribution.
 
 ---
-
-If you find typos or formatting issues, feel free to open an issue or contact me — I am continuously refining the text and layout.
-
 
 - 🌿 [Crina Bondre Ardelean](./Ardelean/)
 
