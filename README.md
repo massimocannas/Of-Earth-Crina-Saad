@@ -57,8 +57,6 @@ Please do not reproduce or redistribute without attribution.
 
 ---
 
-- 🌿 [Crina Bondre Ardelean](./Ardelean/)
-
 ### The Speed of Earth
 
 you think you're quick  
