@@ -64,7 +64,7 @@ Please do not reproduce or redistribute without attribution.
 you think you're quick  
 earth is quicker    
 
-her feet reach to yours
+her feet reach to yours<br>
 the moment before you step  
 she breathes into you
 the moment before you inhale  
