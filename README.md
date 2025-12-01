@@ -22,7 +22,7 @@ She has taught literature in Montreal and continues to be active in the literary
 
 The collection **Of Earth** was first published in 2015 on *Eudia*. [link](https://www.eudia.org/poetry-crina-bondre-ardelean-of-earth/)
  
-Crina is currently transitioning back to her **family surname**, *Saad*, which is now used in this edition.
+Crina is currently transitioning back to her **family surname**, *Saad*, which is now used in this edition, completed on 2025.
 
 I warmly thank her for granting permission to publish this bilingual edition with the Italian translation.
 
