@@ -1,8 +1,9 @@
-> *“...Doch uns ist gegeben,  
-> Auf keiner Stätte zu ruhn.”*  
-> — Friedrich Hölderlin, *Griechenland* (vv. 24–25)
+> *«Voll Verdienst, doch dichterisch wohnet  
+> der Mensch auf dieser Erde.»*  
+> — Friedrich Hölderlin, *In lieblicher Bläue blühet…*, VI, 25
 
 
+<!-- klkk -->
 <p align="center">
   <svg width="180" height="1">
     <rect width="180" height="1" fill="#999" />
