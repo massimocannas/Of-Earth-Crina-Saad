@@ -66,7 +66,6 @@ earth is quicker
 
 her feet reach to yours
 the moment before you step  
-
 she breathes into you
 the moment before you inhale  
 
