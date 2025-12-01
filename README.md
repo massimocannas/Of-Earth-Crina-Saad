@@ -82,9 +82,9 @@ how you mistrust her!
 testing her, when she has brought<br>
 all devotion, in great simplicity
 
-::::
+***
 
-:::: column
+
 ### La velocità della Terra
 
 tu pensi d'essere veloce  
