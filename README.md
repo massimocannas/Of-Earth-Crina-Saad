@@ -62,24 +62,24 @@ Please do not reproduce or redistribute without attribution.
 ### The Speed of Earth
 
 you think you're quick  
-earth is quicker  
+earth is quicker    
 
 her feet reach to yours
-the moment before you step
+the moment before you step  
 
 she breathes into you
-the moment before you inhale
+the moment before you inhale  
 
 she unveils herself to you
-the moment before you look
+the moment before you look  
 
 and she makes extraordinary sense
-the moment before you puzzle
+the moment before you puzzle  
 
 how she serves you!
-how you mistrust her!
+how you mistrust her!  
  
-testing her, when she has brought
+testing her, when she has brought  
 all devotion, in great simplicity
 
 ::::
@@ -89,6 +89,25 @@ all devotion, in great simplicity
 
 tu pensi d'essere veloce  
 ma la terra lo è di più  
+
+il suo piede precede i tuoi
+appena prima del tuo passo  
+
+lei respira in te
+appena prima che tu inali  
+
+lei si svela a te
+appena prima del tuo sguardo  
+
+e tutto ha un senso straordinario
+un attimo prima che tu ti confonda  
+
+ah! come ti serve!
+e come sei malfidato!  
+
+a testarla, lei che ti ha portato
+ogni riguardo, in tutta semplicità
+
 *…*
 
 ::::
