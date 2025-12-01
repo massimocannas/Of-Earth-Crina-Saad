@@ -66,19 +66,20 @@ earth is quicker
 
 her feet reach to yours<br>
 the moment before you step  
-she breathes into you
-the moment before you inhale  
 
-she unveils herself to you
+she breathes into you<br>
+the moment before you inhale    
+
+she unveils herself to you<br>
 the moment before you look  
 
-and she makes extraordinary sense
+and she makes extraordinary sense<br>
 the moment before you puzzle  
 
-how she serves you!
+how she serves you!<br>
 how you mistrust her!  
  
-testing her, when she has brought  
+testing her, when she has brought<br>
 all devotion, in great simplicity
 
 ::::
@@ -89,22 +90,22 @@ all devotion, in great simplicity
 tu pensi d'essere veloce  
 ma la terra lo è di più  
 
-il suo piede precede i tuoi
+il suo piede precede i tuoi<br>
 appena prima del tuo passo  
 
-lei respira in te
+lei respira in te<br>
 appena prima che tu inali  
 
-lei si svela a te
+lei si svela a te<br>
 appena prima del tuo sguardo  
 
-e tutto ha un senso straordinario
+e tutto ha un senso straordinario<br>
 un attimo prima che tu ti confonda  
 
-ah! come ti serve!
+ah! come ti serve!<br>
 e come sei malfidato!  
 
-a testarla, lei che ti ha portato
+a testarla, lei che ti ha portato<br>
 ogni riguardo, in tutta semplicità
 
 *…*
