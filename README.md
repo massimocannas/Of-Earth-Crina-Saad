@@ -54,7 +54,7 @@ Please do not reproduce or redistribute without attribution.
 
 ---
 
-### The Speed of Earth
+&nbsp;&nbsp;### The Speed of Earth
 
 you think you're quick  
 earth is quicker    
@@ -80,7 +80,7 @@ all devotion, in great simplicity
 ❧ ❧ ❧
 
 
-###     La velocità della Terra
+&nbsp;&nbsp;###     La velocità della Terra
 
 tu pensi d'essere veloce  
 ma la terra lo è di più  
