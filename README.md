@@ -79,8 +79,7 @@ all devotion, in great simplicity
 
 ❧ ❧ ❧
 
-
-&nbsp;&nbsp;###     La velocità della Terra
+<div style="margin-left: 1.2em;">### La velocità della Terra</div>
 
 tu pensi d'essere veloce  
 ma la terra lo è di più  
