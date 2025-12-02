@@ -36,7 +36,8 @@ This repository hosts:
 <!-- - a **general introduction** to the collection   -->
 
 - the **first poem**, *The Speed of Earth*, along with the Italian translation is presented below  
-- the **complete bilingual edition in PDF** (original + Italian translation) [Of Earth - bilingual](./docs/Crina Saad - Of Earth - bilingual)
+- the **complete bilingual edition in PDF** (original + Italian translation) [Of Earth - bilingual](docs/of-earth.pdf)
+
 
 ---
 
@@ -79,7 +80,7 @@ all devotion, in great simplicity
 ❧ ❧ ❧
 
 
-### La velocità della Terra
+###     La velocità della Terra
 
 tu pensi d'essere veloce  
 ma la terra lo è di più  
