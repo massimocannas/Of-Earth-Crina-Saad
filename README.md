@@ -16,7 +16,7 @@
 
 ---
 
-## 🕊️ About the Author
+## ✤ About the Author
 
 Crina Saad (formerly known as Crina Bondre Ardelean) is a Romanian-Palestinian poet whose work has appeared in *Canadian Literature* and *The New Quarterly*, where one of her poems was shortlisted for the **Nick Blatchford Occasional Verse Contest** in 2011.  
 She has taught literature in Montreal and continues to be active in the literary and arts community.
