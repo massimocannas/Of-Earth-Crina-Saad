@@ -36,9 +36,7 @@ This repository hosts:
 <!-- - a **general introduction** to the collection   -->
 
 - the **first poem**, The Speed of Earth, along with the Italian translation is presented below  
-- the **complete bilingual edition in PDF** (original + Italian translation) **[Of Earth — Crina Saad](https://USERNAME.github.io/of-earth-crina-saad/)**
-
-<!-- - a The goal is to make *Of Earth* accessible for online reading while preserving the structure and tone of the original work as faithfully as possible.-->
+- the **complete bilingual edition in PDF** (original + Italian translation) **[Of Earth - bilingual](docs/Crina Saad - Of Earth - bilingual/)**
 
 ---
 
