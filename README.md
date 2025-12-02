@@ -54,7 +54,7 @@ Please do not reproduce or redistribute without attribution.
 
 ---
 
-&nbsp;&nbsp;### The Speed of Earth
+### The Speed of Earth
 
 you think you're quick  
 earth is quicker    
