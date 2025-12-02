@@ -29,28 +29,26 @@ I warmly thank her for granting permission to publish this bilingual edition wit
 
 ---
 
-## 📖 About this Repository
+## ✤ About this Repository
 
 This repository hosts:
 
 <!-- - a **general introduction** to the collection   -->
 
-- the **first poem** presented directly in the README in a two-column layout (below)  
+- the **first poem**, The Speed of Earth, along with the Italian translation is presented below  
 - the **complete bilingual edition in PDF** (original + Italian translation) **[Of Earth — Crina Saad](https://USERNAME.github.io/of-earth-crina-saad/)**
 
 <!-- - a The goal is to make *Of Earth* accessible for online reading while preserving the structure and tone of the original work as faithfully as possible.-->
 
 ---
 
-## 🔗 Direct Link to the Mini-Site
+## ✤ Direct Link to the Mini-Site
 
-The dedicated mini-site for the project is available here:
-
-👉 **[Of Earth — Crina Saad](URL-DA-INSERIRE)**
+The dedicated mini-site for the project is available **[here](https://USERNAME.github.io/of-earth-crina-saad/)**
 
 ---
 
-## ✍️ License and Permissions
+## ✤ License and Permissions
 
 The contents of this repository are published **with explicit permission of the author, Crina Saad**.  
 Please do not reproduce or redistribute without attribution.
@@ -109,10 +107,6 @@ ogni riguardo, in tutta semplicità
 *…*
 
 ::::
-:::
-| **Original (English)** | **Traduzione (Italiano)** |
-|------------------------|---------------------------|
-| you think you're quick<br>earth is quicker<br><br>her feet reach to yours<br>the moment before you step<br>... | tu pensi d’essere veloce<br>ma la terra lo è di più<br><br>il suo piede precede i tuoi<br>appena prima del tuo passo<br>... |
 
 
 ---
