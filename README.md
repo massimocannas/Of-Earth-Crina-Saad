@@ -49,7 +49,7 @@ The dedicated mini-site for the project is available **[here](https://USERNAME.g
 
 ## ✤ License and Permissions
 
-The contents of this repository are published **with explicit permission of the author, Crina Saad**.  
+The contents of this repository are published with explicit permission of the author, *Crina Saad*.  
 Please do not reproduce or redistribute without attribution.
 
 ---
