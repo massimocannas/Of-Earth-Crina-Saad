@@ -79,7 +79,7 @@ all devotion, in great simplicity
 
 ❧ ❧ ❧
 
-<div style="padding-left: 1.5em;">
+<div style="padding-left: 2.5em;">
 <h3>La Velocità della Terra</h3>
 </div>
 
