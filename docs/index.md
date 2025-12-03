@@ -40,7 +40,6 @@ Ecco la prima poesia, presentata in doppia colonna (testo originale e traduzione
 
 Questo progetto è pubblicato sotto licenza **Creative Commons BY-NC-ND 4.0**.
 
+This project is published under licence **Creative Commons BY-NC-ND 4.0**.
 
-## © Licenza
 
-Questo progetto è pubblicato sotto licenza **Creative Commons BY-NC-ND 4.0**.
