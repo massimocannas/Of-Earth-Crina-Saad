@@ -16,16 +16,15 @@ Le sue poesie sono apparse su *Canadian Literature* e *The New Quarterly*, dove 
 
 ### ✤
 La raccolta *Of Earth* è stata pubblicata per la prima volta nel **2015** sul sito *Eudia*  
-ed è disponibile qui:  
-https://www.eudia.org/poetry-crina-bondre-ardelean-of-earth/
+ed è disponibile [qui](https://www.eudia.org/poetry-crina-bondre-ardelean-of-earth/)
 
 Negli ultimi anni, Crina sta tornando al proprio **cognome di famiglia**, *Saad*,
 e la presente edizione ne tiene conto.  
-La ringrazio profondamente per avermi permesso di presentare online questa traduzione italiana.
+La ringrazio per avermi permesso di presentare online questa traduzione italiana.
 
 ### ✤ PDF completo
 
-L’intera raccolta, con testo originale e traduzione italiana, è disponibile in **[PDF completo](/of-earth.pdf)**.
+L’intera raccolta, con testo originale e traduzione italiana, è disponibile [qui](/of-earth.pdf).
 
 ---
 
