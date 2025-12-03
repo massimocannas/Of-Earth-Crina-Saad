@@ -15,8 +15,7 @@ Crina Saad è una poetessa rumeno-palestinese che vive a Montréal, dove insegna
 Le sue poesie sono apparse su *Canadian Literature* e *The New Quarterly*, dove uno dei suoi testi è stato selezionato per il **Nick Blatchford Occasional Verse Contest** nel 2011.
 
 ### ✤ La raccolta
-*Of Earth* è stata pubblicata per la prima volta nel **2015** sul sito *Eudia*  
-ed è disponibile [qui](https://www.eudia.org/poetry-crina-bondre-ardelean-of-earth/)
+*Of Earth* è stata pubblicata per la prima volta nel **2015** sul sito *Eudia* ed è disponibile [qui](https://www.eudia.org/poetry-crina-bondre-ardelean-of-earth/)
 
 Negli ultimi anni, Crina sta tornando al proprio **cognome di famiglia**, *Saad*,
 e la presente edizione ne tiene conto.  
