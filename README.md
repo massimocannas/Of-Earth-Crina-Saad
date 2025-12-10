@@ -36,8 +36,8 @@ This repository hosts:
 <!-- - a **general introduction** to the collection   -->
 
 - the **first poem**, *The Speed of Earth*, along with the Italian translation, [below](#The-Speed-of-Earth) 
-- the ** parallel text bilingual edition**: [Of Earth - bilingual](docs/of-earth.pdf)
-- the ** facing-page bilingual edition** (on January 2026)
+- the *parallel text* bilingual edition: [Of Earth - parallel](docs/of-earth.pdf)
+- the *facing-page* bilingual edition: (on January 2026)
 
 
 ---
