@@ -21,7 +21,7 @@
 Crina Saad (formerly known as Crina Bondre Ardelean) is a Romanian-Palestinian poet whose work has appeared in *Canadian Literature* and *The New Quarterly*, where one of her poems was shortlisted for the **Nick Blatchford Occasional Verse Contest** in 2011.  
 She has taught literature in Montreal and continues to be active in the literary and arts community.
 
-The collection **Of Earth** was first published in 2015 on *Eudia*. [link](https://www.eudia.org/poetry-crina-bondre-ardelean-of-earth/)
+The collection **Of Earth** was first published in 2015 on [*eudia*](https://www.eudia.org/poetry-crina-bondre-ardelean-of-earth/)
  
 Crina is currently transitioning back to her **family surname**, *Saad*, which is now used in this edition, completed on 2025.
 
@@ -35,8 +35,8 @@ This repository hosts:
 
 <!-- - a **general introduction** to the collection   -->
 
-- the **first poem**, *The Speed of Earth*, along with the Italian translation is presented below  
-- the ** parallel text bilingual edition** [Of Earth - bilingual](docs/of-earth.pdf)
+- the **first poem**, *The Speed of Earth*, along with the Italian translation, [below](#The-Speed-of-Earth) 
+- the ** parallel text bilingual edition**: [Of Earth - bilingual](docs/of-earth.pdf)
 - the ** facing-page bilingual edition** (on January 2026)
 
 
