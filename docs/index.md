@@ -18,11 +18,12 @@ e la presente edizione ne tiene conto.
 La ringrazio per avermi permesso di presentare online questa traduzione italiana.
 
 ### ✤ La raccolta
-*Of Earth* è stata pubblicata per la prima volta nel **2015** sulla rivista [*eudia*](https://www.eudia.org/poetry-crina-bondre-ardelean-of-earth/)
+*Of Earth* è stata pubblicata per la prima volta nel **2015** sulla rivista [*eudia*](https://www.eudia.org/poetry-crina-bondre-ardelean-of-earth/).
 
 ### ✤ La traduzione italiana
 
 L’intera raccolta, con testo originale e traduzione sulla stessa pagina, è disponibile [qui](</Crina Saad - Of Earth - bilingual.pdf>).
+
 Una edizione con testo a fronte sarà disponibile a gennaio 2026 [qui](/of-earth-.pdf).
 
 ---
