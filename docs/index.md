@@ -22,7 +22,7 @@ La ringrazio per avermi permesso di presentare online questa traduzione italiana
 
 ### ✤ La traduzione italiana
 
-L’intera raccolta, con testo originale e traduzione sulla stessa pagina, è disponibile [qui](/of-earth-bilingual.pdf).
+L’intera raccolta, con testo originale e traduzione sulla stessa pagina, è disponibile [qui](</Crina Saad - Of Earth - bilingual.pdf>).
 Una edizione con testo a fronte sarà disponibile a gennaio 2026 [qui](/of-earth-.pdf).
 
 ---
