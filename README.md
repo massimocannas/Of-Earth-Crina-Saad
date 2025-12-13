@@ -108,8 +108,6 @@ ogni riguardo, in tutta semplicità
 
 *…*
 
-::::
-
 
 ---
 
