@@ -106,7 +106,7 @@ e come sei malfidato!
 a testarla, lei che ti ha portato<br>
 ogni riguardo, in tutta semplicità
 
-*…*
+❧ ❧ ❧
 
 
 ---
