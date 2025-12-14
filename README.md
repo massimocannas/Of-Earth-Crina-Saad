@@ -18,12 +18,9 @@
 
 ## ✤ About the Author
 
-Crina Saad (formerly known as Crina Bondre Ardelean) is a Romanian-Palestinian poet whose work has appeared in *Canadian Literature* and *The New Quarterly*, where one of her poems was shortlisted for the **Nick Blatchford Occasional Verse Contest** in 2011.  
-She has taught literature in Montreal and continues to be active in the literary and arts community.
+Crina Saad (Bondre Ardelean) is a Palestinian-Romanian born in Canada. Her work has appeared in various journals, including *Canadian Literature*,  *The New Quarterly*, *Headlight Antology*, and *Scene48*. She teaches literature in Montreal. 
 
 The collection **Of Earth** was first published in 2015 in the [*eudia*](https://www.eudia.org/poetry-crina-bondre-ardelean-of-earth/) yearbook.
- 
-Crina is currently transitioning back to her family surname, *Saad*, which is now used in this edition, completed on 2025.
 
 I warmly thank her for granting permission to publish this bilingual edition with the Italian translation.
 
