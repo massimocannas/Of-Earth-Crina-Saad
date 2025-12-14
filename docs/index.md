@@ -1,24 +1,20 @@
 ---
-title: Of Earth – Crina Saad
+title: Of Earth
 ---
 
 # *Of Earth*  
-### ✤ Poesie di Crina Saad  
+### ✤ Poesie di Crina Saad (Bondre Ardelean) 
 Traduzione italiana di Massimo Cannas
-
-Benvenuti nel minisito dedicato alla raccolta *Of Earth* di **Crina Saad (Bondre Ardelean)**
 
 ### ✤ Breve biografia 
 
-Crina Saad è una poetessa rumeno-palestinese che vive a Montréal, dove insegna letteratura.  
-Le sue poesie sono apparse su *Canadian Literature* e *The New Quarterly*, dove uno dei suoi testi è stato selezionato per il **Nick Blatchford Occasional Verse Contest** nel 2011.
+Crina Saad (Bondre Ardelean) è una palestinese-rumena nata in Canada.  
+Le sue opere sono apparse in diverse riviste, tra cui *Canadian Literature*, *The New Quarterly*, *Headlight Anthology*, and *Scene48*. Insegna letteratura a Montreal.
 
-Negli ultimi anni, Crina sta tornando al proprio **cognome di famiglia**, *Saad*,
-e la presente edizione ne tiene conto.  
-La ringrazio per avermi permesso di presentare online questa traduzione italiana.
 
 ### ✤ La raccolta
 *Of Earth* è stata pubblicata per la prima volta nel **2015** sulla rivista [*eudia*](https://www.eudia.org/poetry-crina-bondre-ardelean-of-earth/).
+Ringrazio di cuore Crina per avermi permesso di presentare il testo originale delle sue poesia accanto alla mia traduzione italiana.
 
 ### ✤ La traduzione italiana
 
