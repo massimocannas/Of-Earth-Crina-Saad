@@ -3,7 +3,7 @@ title: Of Earth
 ---
 
 # *Of Earth*  
-### ✤ Poesie di Crina Saad (Bondre Ardelean) 
+### ✤ Poesie di Crina Saad
 Traduzione italiana di Massimo Cannas
 
 ### ✤ Breve biografia 
