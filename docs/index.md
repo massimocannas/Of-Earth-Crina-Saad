@@ -9,7 +9,8 @@ Traduzione italiana di Massimo Cannas
 ### ✤ Breve biografia 
 
 Crina Saad (Bondre Ardelean) è una palestinese-rumena nata in Canada.  
-Le sue opere sono apparse in diverse riviste, tra cui *Canadian Literature*, *The New Quarterly*, *Headlight Anthology*, and *Scene48*. Insegna letteratura a Montreal.
+Le sue opere sono apparse in diverse riviste, tra cui *Canadian Literature*, *The New Quarterly*, *Headlight Anthology*, and *Scene48*.
+Insegna letteratura a Montreal.
 
 
 ### ✤ La raccolta
