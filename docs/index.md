@@ -37,6 +37,5 @@ Qui sotto la prima poesia della raccolta, *The Speed of Earth*, in doppia colonn
 
 Questo progetto è pubblicato sotto licenza **Creative Commons BY-NC-ND 4.0**.
 
-This project is published under licence **Creative Commons BY-NC-ND 4.0**.
 
 
