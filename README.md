@@ -49,8 +49,12 @@ The dedicated mini-site for the project is available **[here](https://USERNAME.g
 
 ## ✤ License and Permissions
 
-The contents of this repository are published with explicit permission of the author, *Crina Saad*.  
-Please do not reproduce or redistribute without attribution.
+© 2015 Crina Saad
+© 2025 Italian translation Massimo Cannas}
+
+All rights reserved.
+No part of this publication may be reproduced, distributed, or transmitted in any form or by any means
+without prior written permission of the authors.
 
 ---
 
