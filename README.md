@@ -22,7 +22,7 @@ Crina Saad (Bondre Ardelean) is a Palestinian-Romanian born in Canada. Her work 
 
 The collection **Of Earth** was first published in 2015 in the [*eudia*](https://www.eudia.org/poetry-crina-bondre-ardelean-of-earth/) yearbook.
 
-I warmly thank her for granting permission to publish this bilingual edition with the Italian translation.
+I warmly thank Crina for granting permission to publish this bilingual edition with the Italian translation.
 
 ---
 
