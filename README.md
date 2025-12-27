@@ -32,7 +32,7 @@ This repository hosts:
 
 <!-- - a **general introduction** to the collection   -->
 
-- the **first poem**, *The Speed of Earth*, along with the Italian translation, [below](#The-Speed-of-Earth)
+- the **first poem** of the collection, *The Speed of Earth*, along with the Italian translation, [below](#The-Speed-of-Earth)
 <!-- - the *parallel text* bilingual edition: [Of Earth - parallel](docs/Crina_Saad_Of_Earth_bi.pdf)-->
 - the *parallel text* bilingual edition [Of Earth - bilingual](https://raw.githubusercontent.com/massimocannas/Of-Earth-Crina-Saad/main/docs/Crina_Saad_Of_Earth_bi.pdf
 ). A github preview will be soon available [here](notyet_docs/Crina_Saad_Of_Earth_bi.pdf) 
