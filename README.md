@@ -49,12 +49,8 @@ The dedicated mini-site for the project will be available **[here](https://USERN
 
 ## ✤ License and Permissions
 
-© 2015 Crina Saad
-© 2025 Italian translation Massimo Cannas}
-
-All rights reserved.
-No part of this publication may be reproduced, distributed, or transmitted in any form or by any means
-without prior written permission of the authors.
+This work is licensed under a  
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ---
 
@@ -112,7 +108,3 @@ ogni riguardo, in tutta semplicità
 
 ---
 
-### License
-
-This work is licensed under a  
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
