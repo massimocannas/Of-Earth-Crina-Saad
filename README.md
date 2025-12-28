@@ -20,11 +20,16 @@
 
 Crina Saad (Bondre Ardelean) is a Palestinian-Romanian born in Canada. Her work has appeared in various journals, including *Canadian Literature*,  *The New Quarterly*, *Headlight Antology*, and *Scene48*. She teaches literature in Montreal. 
 
-The collection **Of Earth** was first published in 2015 in the [*eudia*](https://www.eudia.org/poetry-crina-bondre-ardelean-of-earth/) yearbook.
-
-I warmly thank Crina for granting permission to publish this bilingual edition with the Italian translation.
 
 ---
+
+## ✤ About the Collection
+
+The collection **Of Earth** was first published in 2015 in the [*eudia*](https://www.eudia.org/poetry-crina-bondre-ardelean-of-earth/) yearbook.
+
+This bilingual edition presents the original English text alongside an Italian translation by Massimo Cannas. 
+I warmly thank Crina for granting permission to publish the original text and for supporting the completion of the Italian translation.
+
 
 ## ✤ About this Repository
 
