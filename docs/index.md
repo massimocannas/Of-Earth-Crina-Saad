@@ -17,7 +17,7 @@ Le sue opere sono apparse in diverse riviste, tra cui *Canadian Literature*, *Th
 Ringrazio di cuore Crina per avermi permesso di pubblicare questa traduzione italiana accanto al testo originale e per avermi incoraggiato a portare a termine questo progetto.
 
 ### ✤ L'edizione bilingue
-La raccolta, con testo originale e traduzione sulla stessa pagina, sarà disponibile [qui](https://raw.githubusercontent.com/massimocannas/Of-Earth-Crina-Saad/main/docs/Crina_Saad_Of_Earth_bi.pdf).
+La raccolta, con testo originale e traduzione sulla stessa pagina, è disponibile [qui](https://raw.githubusercontent.com/massimocannas/Of-Earth-Crina-Saad/main/docs/Crina_Saad_Of_Earth_bilingual.pdf).
 
 Una edizione con testo a fronte sarà disponibile a gennaio 202? [qui](/of-earth-.pdf).
 
