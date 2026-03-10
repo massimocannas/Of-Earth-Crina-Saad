@@ -1,7 +1,3 @@
----
-title: Of Earth
----
-
 ### ✤ Breve biografia 
 
 Crina Saad (Bondre Ardelean) è una palestinese-rumena nata in Canada. 
