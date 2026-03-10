@@ -46,7 +46,7 @@ This repository hosts:
 
 ## ✤ Direct Link to the Mini-Site
 
-The dedicated mini-site for the project will be available **[here](https://massimocannas.github.io/of-earth-crina-saad/)**
+The dedicated mini-site for the project is available **[here](https://massimocannas.github.io/Of-Earth-Crina-Saad/)**.
 
 ---
 
