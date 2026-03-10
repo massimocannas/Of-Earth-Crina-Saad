@@ -19,14 +19,6 @@ Una edizione con testo a fronte sarà disponibile a gennaio 2027.
 
 ---
 
-## ✤ Anteprima
-
-Qui sotto la prima poesia della raccolta, *The Speed of Earth*, in doppia colonna:
-
-<!-- Qui inserirò o inserirari tu la poesia in due colonne -->
-
----
-
 ## ✤ Licenza
 
  Questo progetto è pubblicato sotto licenza **Creative Commons BY-NC-ND 4.0**
