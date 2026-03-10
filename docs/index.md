@@ -2,10 +2,6 @@
 title: Of Earth
 ---
 
-# *Of Earth*  
-### ✤ Poesie di Crina Saad
-Traduzione italiana di Massimo Cannas
-
 ### ✤ Breve biografia 
 
 Crina Saad (Bondre Ardelean) è una palestinese-rumena nata in Canada. 
