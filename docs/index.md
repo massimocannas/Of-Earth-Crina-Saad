@@ -1,5 +1,5 @@
 ---
-title: Of Earth
+title:
 ---
 
 ### ✤ Breve biografia 
