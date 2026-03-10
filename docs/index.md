@@ -1,5 +1,5 @@
 ---
-title:
+layout: default
 ---
 
 ### ✤ Breve biografia 
