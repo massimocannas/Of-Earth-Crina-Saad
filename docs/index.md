@@ -20,7 +20,7 @@ Una edizione con testo a fronte sarà disponibile a gennaio 2027.
 
 ---
 
-## ✤ Licenza
+### ✤ Licenza
 
  Questo progetto è pubblicato sotto licenza **Creative Commons BY-NC-ND 4.0**
 
