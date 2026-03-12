@@ -21,13 +21,12 @@ Qui sotto è possibile leggere in anteprima la prima poesia della raccolta, *The
 
 Una edizione con **testo a fronte** sarà resa disponibile nel corso del 2027.
 
-### ✤ Anteprima – *The Speed of Earth*
+### ✤ *The Speed of Earth*
 
 <div class="poem-grid">
 
 <div>
-
-**The Speed of Earth**<br><br>
+<h4>The Speed of Earth</h4>
 
 you think you're quick<br>
 earth is quicker<br><br>
@@ -56,7 +55,7 @@ all devotion, in great simplicity<br><br>
 
 <div>
 
-**La Velocità della Terra**<br><br>
+<h4>La Velocità della Terra</h4>
 
 tu pensi d'essere veloce<br>
 ma la terra lo è di più<br><br>
