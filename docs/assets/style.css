@@ -45,3 +45,7 @@ hr {
 .poem-grid p {
   margin: 0 0 0.6em 0;
 }
+/* nasconde la seconda riga del footer generata da minima */
+.site-footer .footer-col-2 {
+  display: none;
+}
