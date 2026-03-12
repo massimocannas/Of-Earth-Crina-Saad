@@ -23,7 +23,25 @@ a:hover {
     text-decoration: underline;
 }
 
+
 /* Separatore */
 hr {
     margin: 2.5rem 0;
+}
+/* miglior leggibilità per testi letterari */
+.page-content {
+  max-width: 720px;
+  line-height: 1.65;
+  font-size: 17px;
+}
+
+/* layout per poesia bilingue */
+.poem-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+
+.poem-grid p {
+  margin: 0 0 0.6em 0;
 }
