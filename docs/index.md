@@ -24,28 +24,28 @@ Una edizione con testo a fronte sarà disponibile a gennaio 2027.
 
 <div>
 
-**The Speed of Earth**
+**The Speed of Earth**<br><br>
 
-you think you're quick  
-earth is quicker  
+you think you're quick<br>
+earth is quicker<br><br>
 
-her feet reach to yours  
-the moment before you step  
+her feet reach to yours<br>
+the moment before you step<br><br>
 
-she breathes into you  
-the moment before you inhale  
+she breathes into you<br>
+the moment before you inhale<br><br>
 
-she unveils herself to you  
-the moment before you look  
+she unveils herself to you<br>
+the moment before you look<br><br>
 
-and she makes extraordinary sense  
-the moment before you puzzle  
+and she makes extraordinary sense<br>
+the moment before you puzzle<br><br>
 
-how she serves you!  
-how you mistrust her!  
+how she serves you!<br>
+how you mistrust her!<br><br>
 
-testing her, when she has brought  
-all devotion, in great simplicity  
+testing her, when she has brought<br>
+all devotion, in great simplicity<br><br>
 
 ❧ ❧ ❧
 
@@ -53,28 +53,28 @@ all devotion, in great simplicity
 
 <div>
 
-**La Velocità della Terra**
+**La Velocità della Terra**<br><br>
 
-tu pensi d'essere veloce  
-ma la terra lo è di più  
+tu pensi d'essere veloce<br>
+ma la terra lo è di più<br><br>
 
-il suo piede precede i tuoi  
-appena prima del tuo passo  
+il suo piede precede i tuoi<br>
+appena prima del tuo passo<br><br>
 
-lei respira in te  
-appena prima che tu inali  
+lei respira in te<br>
+appena prima che tu inali<br><br>
 
-lei si svela a te  
-appena prima del tuo sguardo  
+lei si svela a te<br>
+appena prima del tuo sguardo<br><br>
 
-e tutto ha un senso straordinario  
-un attimo prima che tu ti confonda  
+e tutto ha un senso straordinario<br>
+un attimo prima che tu ti confonda<br><br>
 
-ah! come ti serve!  
-e come sei malfidato!  
+ah! come ti serve!<br>
+e come sei malfidato!<br><br>
 
-a testarla, lei che ti ha portato  
-ogni riguardo, in tutta semplicità  
+a testarla, lei che ti ha portato<br>
+ogni riguardo, in tutta semplicità<br><br>
 
 ❧ ❧ ❧
 
