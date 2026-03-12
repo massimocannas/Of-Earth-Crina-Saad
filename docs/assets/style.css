@@ -1,53 +1,25 @@
-/* Impostazioni generali */
-body {
-    font-family: "Georgia", serif;
-    max-width: 800px;
-    margin: auto;
-    padding: 2rem;
-    line-height: 1.6;
-}
+---
+---
 
-/* Titoli */
-h1, h2, h3 {
-    font-family: "Georgia", serif;
-    font-weight: 600;
-    margin-top: 2rem;
-}
+@import "minima";
 
-/* Link */
-a {
-    color: #333399;
-    text-decoration: none;
-}
-a:hover {
-    text-decoration: underline;
-}
-
-
-/* Separatore */
-hr {
-    margin: 2.5rem 0;
-}
-/* miglior leggibilità per testi letterari */
-.page-content {
-  max-width: 720px;
-  line-height: 1.65;
-  font-size: 17px;
-}
-
-/* layout per poesia bilingue */
+/* poesia bilingue */
 .poem-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 40px;
+  gap: 50px;
+  margin-top: 10px;
 }
 
-.poem-grid p {
-  margin: 0 0 0.6em 0;
+/* font più adatto alla poesia */
+.poem-grid div {
+  font-family: Georgia, serif;
 }
-/* footer minimale per il minisito */
-.site-footer .footer-col-wrapper {
-  display: block;
+
+/* footer semplificato */
+.site-footer .footer-col-2,
+.site-footer .footer-col-3 {
+  display: none;
 }
 
 .site-footer .footer-col-2,
