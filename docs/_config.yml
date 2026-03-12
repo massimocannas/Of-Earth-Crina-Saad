@@ -1,11 +1,7 @@
 title: "Of Earth – Crina Saad"
 description: ""
-theme: minima     # o un altro tema ufficiale GitHub
+theme: minima
 markdown: kramdown
 
-# Per caricare il CSS personalizzato
 plugins:
   - jekyll-include-cache
-
-include:
-  - assets/style.css
