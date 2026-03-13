@@ -85,10 +85,6 @@ ogni riguardo, in tutta semplicità<br><br>
 
 ### ✤ Licenza
 
-</div>
-
-</div>
-
 Questo progetto è pubblicato sotto licenza **Creative Commons BY-NC-ND 4.0**
 
 
