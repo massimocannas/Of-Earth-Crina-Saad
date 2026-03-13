@@ -22,9 +22,7 @@ Qui sotto la prima poesia della raccolta, *The Speed of Earth*, presentata con t
 
 
 ### ✤ 
-
-<h4 class="poem-title">The Speed of Earth / La Velocità della Terra</h4>
-
+<div class="poem-grid">
 <div>
 <h4>The Speed of Earth</h4>
 
