@@ -16,10 +16,12 @@
   font-family: Georgia, serif;
 }
 
-.site-footer {
-  display: none;
+/* footer minimale personalizzato */
+.custom-footer {
+  text-align: center;
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 60px;
+  padding-top: 20px;
+  border-top: 1px solid #eee;
 }
-<p class="custom-footer">
-Of Earth – Crina Saad · Italian translation by Massimo Cannas  
-<br>
-</p>
