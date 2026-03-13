@@ -82,7 +82,6 @@ ogni riguardo, in tutta semplicità<br><br>
 
 </div>
 
----
 
 ### ✤ Licenza
 
