@@ -88,5 +88,9 @@ ogni riguardo, in tutta semplicità<br><br>
 
 Questo progetto è pubblicato sotto licenza **Creative Commons BY-NC-ND 4.0**
 
+<p style="text-align:center; font-size:0.9em; color:#666;">
+Of Earth – Crina Saad
+</p>
+
 
 
