@@ -21,9 +21,9 @@ Una edizione con testo a fronte sarà disponibile nel corso del 2027.
 Qui sotto la prima poesia della raccolta, *The Speed of Earth*, presentata con testo originale e traduzione italiana.
 
 
-### ✤ *La prima poesia della raccolta*
+### ✤ 
 
-<div class="poem-grid">
+<h4 class="poem-title">The Speed of Earth / La Velocità della Terra</h4>
 
 <div>
 <h4>The Speed of Earth</h4>
