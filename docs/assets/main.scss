@@ -15,14 +15,11 @@
 .poem-grid div {
   font-family: Georgia, serif;
 }
-
-/* footer semplificato */
-.site-footer .footer-col-2,
-.site-footer .footer-col-3 {
-  display: none;
+/* footer minimale */
+.site-footer .footer-col-wrapper {
+  display: block;
 }
 
-.site-footer .footer-col-2,
-.site-footer .footer-col-3 {
+.site-footer .footer-col:not(:first-child) {
   display: none;
 }
