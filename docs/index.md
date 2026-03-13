@@ -15,13 +15,13 @@ Ringrazio di cuore Crina per avermi permesso di pubblicare questa traduzione ita
 
 ### ✤ L'edizione bilingue
 
-Una prima edizione bilingue della raccolta, con testo originale e traduzione italiana sulla stessa pagina, è disponibile [qui](https://raw.githubusercontent.com/massimocannas/Of-Earth-Crina-Saad/main/docs/Crina_Saad_Of_Earth_bilingual.pdf).
+Una prima edizione bilingue della raccolta, con testo originale e traduzione italiana sulla stessa pagina, è scaricabile dal seguente [link](https://raw.githubusercontent.com/massimocannas/Of-Earth-Crina-Saad/main/docs/Crina_Saad_Of_Earth_bilingual.pdf).
+Una edizione con testo a fronte sarà disponibile nel corso del 2027.
 
-Qui sotto è possibile leggere in anteprima la prima poesia della raccolta, *The Speed of Earth*, presentata con testo originale e traduzione italiana.
+Qui sotto la prima poesia della raccolta, *The Speed of Earth*, presentata con testo originale e traduzione italiana.
 
-Una edizione con **testo a fronte** sarà resa disponibile nel corso del 2027.
 
-### ✤ *The Speed of Earth*
+### ✤ *La prima poesia della raccolta*
 
 <div class="poem-grid">
 
