@@ -86,7 +86,7 @@ ogni riguardo, in tutta semplicità<br><br>
 
 ### ✤ Licenza
 
- Questo progetto è pubblicato sotto licenza **Creative Commons BY-NC-ND 4.0**
+Questo progetto è pubblicato sotto licenza **Creative Commons BY-NC-ND 4.0**
 
 
 
