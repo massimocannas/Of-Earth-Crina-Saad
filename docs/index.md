@@ -47,7 +47,7 @@ how you mistrust her!<br><br>
 testing her, when she has brought<br>
 all devotion, in great simplicity<br><br>
 
-❧ ❧ ❧
+
 
 </div>
 
@@ -76,7 +76,9 @@ e come sei malfidato!<br><br>
 a testarla, lei che ti ha portato<br>
 ogni riguardo, in tutta semplicità<br><br>
 
+<p style="text-align:center; margin-top:40px;">
 ❧ ❧ ❧
+</p>
 
 </div>
 
