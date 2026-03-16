@@ -76,13 +76,15 @@ e come sei malfidato!<br><br>
 a testarla, lei che ti ha portato<br>
 ogni riguardo, in tutta semplicità<br><br>
 
+
+
+</div>
+
+</div>
+
 <p style="text-align:center; margin-top:40px;">
 ❧ ❧ ❧
 </p>
-
-</div>
-
-</div>
 
 <p class="custom-footer">
 Of Earth – Crina Saad<br>
