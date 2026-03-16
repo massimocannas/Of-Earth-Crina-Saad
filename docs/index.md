@@ -82,10 +82,13 @@ ogni riguardo, in tutta semplicità<br><br>
 
 </div>
 
-<p class="custom-footer">
+<footer class="custom-footer">
+<div class="wrapper">
 Of Earth – Crina Saad<br>
 <small>This project is published under the Creative Commons BY-NC-ND 4.0 license.</small>
-</p>
+</div>
+</footer>
+
 
 
 
