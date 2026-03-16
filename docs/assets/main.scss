@@ -2,6 +2,9 @@
 ---
 
 @import "minima";
+.site-footer {
+  display: none;
+}
 
 /* poesia bilingue */
 .poem-grid {
@@ -14,7 +17,4 @@
 /* font più adatto alla poesia */
 .poem-grid div {
   font-family: Georgia, serif;
-}
-.site-footer {
-  display: none;
 }
