@@ -83,9 +83,11 @@ ogni riguardo, in tutta semplicità<br><br>
 </div>
 
 
-### ✤ Licenza
+<p class="custom-footer">
+Of Earth – Crina Saad<br>
+<small>This project is published under the Creative Commons BY-NC-ND 4.0 license.</small>
+</p>
 
-Questo progetto è pubblicato sotto licenza **Creative Commons BY-NC-ND 4.0**
 
 
 
