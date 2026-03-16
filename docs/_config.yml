@@ -1,7 +1,8 @@
 title: "Of Earth – Crina Saad"
-description: ""
+description: "Licensed under Creative Commons BY-NC-ND 4.0"
 theme: minima
 markdown: kramdown
 
 plugins:
   - jekyll-include-cache
+
