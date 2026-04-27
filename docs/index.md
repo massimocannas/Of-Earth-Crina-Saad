@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 <div class="language-switch">
-<a href="/NOME-REPO/">IT</a> | <a href="/NOME-REPO/en/">ENG</a>
+<a href="/">IT</a> | <a href="/en/">ENG</a>
 </div>
 ### ✤ Breve biografia 
 
