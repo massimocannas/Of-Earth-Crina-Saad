@@ -2,6 +2,8 @@
 ---
 
 @import "minima";
+
+/* nasconde il footer del tema */
 .site-footer {
   display: none;
 }
@@ -18,6 +20,8 @@
 .poem-grid div {
   font-family: Georgia, serif;
 }
+
+/* footer personalizzato */
 .custom-footer {
   border-top: 1px solid #e8e8e8;
   border-bottom: 1px solid #e8e8e8;
@@ -26,30 +30,36 @@
   text-align: center;
   font-size: 0.9em;
 }
-.language-switch {
-  text-align: right;
-  font-size: 0.85em;
-  margin-bottom: 20px;
-}
 
-.language-switch a {
-  text-decoration: none;
-  color: #555;
-}
-
-.language-switch a:hover {
-  text-decoration: underline;
-}
 /* contenitore allineato al titolo */
 .title-row {
   position: relative;
 }
 
-/* switch posizionato in alto a destra */
+/* switch lingua */
 .language-switch {
   position: absolute;
-  top: -10px;
+  top: -10px;   /* regola fine se serve */
   right: 0;
   font-size: 0.75em;
   letter-spacing: 0.05em;
+}
+
+.language-switch a {
+  text-decoration: none;
+  color: #888;
+}
+
+.language-switch a:hover {
+  color: #000;
+}
+
+.language-switch .active {
+  color: #000;
+  font-weight: 500;
+}
+
+.language-switch .sep {
+  margin: 0 6px;
+  color: #bbb;
 }
