@@ -4,12 +4,8 @@ title: ""
 lang: en
 permalink: /en/
 ---
-<div class="title-row">
-  <div class="language-switch">
-    <a href="/Of-Earth-Crina-Saad/">IT</a>
-    <span class="sep">·</span>
-    <span class="lang active">EN</span>
-  </div>
+<div class="language-switch">
+<a href="/NOME-REPO/">IT</a> | <a href="/NOME-REPO/en/">ENG</a>
 </div>
 ### ✤ Brief biography 
 
