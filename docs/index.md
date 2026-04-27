@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 <div class="language-switch">
-<a href="/">IT</a> | <a href="/en/">ENG</a>
+<a href="/Of-Earth-Crina-Saad/">IT</a> | <a href="/Of-Earth-Crina-Saad/en/">ENG</a>
 </div>
 ### ✤ Breve biografia 
 
