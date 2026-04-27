@@ -4,12 +4,14 @@
 .site-footer {
   display: none;
 } 
+
 /* poesia bilingue */ 
 .poem-grid { display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 50px;
   margin-top: 10px;
-} /* font più adatto alla poesia */
+} 
+/* font più adatto alla poesia */
 .poem-grid div { font-family: Georgia, serif; 
 } 
 .custom-footer { border-top: 1px solid #e8e8e8; 
