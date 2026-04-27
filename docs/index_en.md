@@ -5,7 +5,7 @@ lang: en
 permalink: /en/
 ---
 <div class="language-switch">
-<a href="/NOME-REPO/">IT</a> | <a href="/NOME-REPO/en/">ENG</a>
+<a href="/">IT</a> | <a href="/en/">ENG</a>
 </div>
 ### ✤ Brief biography 
 
