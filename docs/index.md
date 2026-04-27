@@ -2,10 +2,13 @@
 layout: page
 title: ""
 ---
-<div class="language-switch">
-<a href="/Of-Earth-Crina-Saad/">IT</a> | <a href="/Of-Earth-Crina-Saad/en/">ENG</a>
+<div class="title-row">
+  <div class="language-switch">
+    <span class="lang active">IT</span>
+    <span class="sep">·</span>
+    <a href="/Of-Earth-Crina-Saad/en/">EN</a>
+  </div>
 </div>
-
 ### ✤ Breve biografia 
 
 Crina Saad (Bondre Ardelean) è una palestinese-rumena nata in Canada. 
