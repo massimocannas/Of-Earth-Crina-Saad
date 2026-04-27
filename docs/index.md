@@ -2,12 +2,8 @@
 layout: page
 title: ""
 ---
-<div class="title-row">
-  <div class="language-switch">
-    <span class="lang active">IT</span>
-    <span class="sep">·</span>
-    <a href="/Of-Earth-Crina-Saad/en/">EN</a>
-  </div>
+<div class="language-switch">
+<a href="/NOME-REPO/">IT</a> | <a href="/NOME-REPO/en/">ENG</a>
 </div>
 ### ✤ Breve biografia 
 
