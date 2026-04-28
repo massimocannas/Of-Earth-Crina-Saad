@@ -58,7 +58,7 @@ all devotion, in great simplicity<br><br>
 
 <div>
 
-<h4>The Speed of Earth (Italian translation)</h4>
+<h4>The Speed of Earth</h4>
 
 tu pensi d'essere veloce<br>
 ma la terra lo è di più<br><br>
